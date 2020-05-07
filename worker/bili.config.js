@@ -18,6 +18,6 @@ self.props = {
 	user: '',
 	pass: '',
 	upload: false,
-	lite: false
+	lite: true
 };`.slice(1)
 }
